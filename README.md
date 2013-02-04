@@ -1,6 +1,6 @@
 usernotification
 ================
-Demonstrate how to post NSUserNotification from CLI(without Application Bundle).
+Demonstrate how to post NSUserNotification from CLI(without Application Bundle) on OS X 10.8.
 
 Install
 -------
